@@ -6,7 +6,7 @@ var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 
 var Mongoose = require('mongoose');
-var db = Mongoose.createConnection('mongodb://alyssaf:Awesomeabcdefg@localhost/cis3801');
+var db = Mongoose.createConnection('mongodb://alyssaf:Awesome1234@localhost/cis3917c');
 var index = require('./routes/index');
 var users = require('./routes/users');
 
